@@ -1,0 +1,23 @@
+{
+  "name": "react-suspense",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "type": "module"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "react": "^18.0.0-alpha-b6ff9ad16-20210820",
+    "react-dom": "^18.0.0-alpha-b6ff9ad16-20210820"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/preset-react": "^7.12.13",
+    "parcel": "^1.12.3"
+  }
+}
